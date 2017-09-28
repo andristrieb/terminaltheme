@@ -1,4 +1,4 @@
-Dark Terminal Theme Profile
+# Dark Terminal Theme Profile
 
 A nice theme designed to reduce the strain on your eyes and also, as a bonus made to enrich the Terminal user experience.
 The colors are nice and pastelly, and the background is semi-transparent with a blur effect to sooth the mind, and calm the soul.
